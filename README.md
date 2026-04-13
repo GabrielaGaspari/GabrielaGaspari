@@ -41,12 +41,5 @@ Quando não estou debugando ou analisando CSVs, você provavelmente vai me encon
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaGaspari&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGaspari&layout=compact&theme=tokyonight)
-
----
-
 📫 **Como me encontrar:**
 (https://www.linkedin.com/in/gabrielagaspari/)
