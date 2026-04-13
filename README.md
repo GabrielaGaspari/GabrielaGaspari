@@ -1,16 +1,52 @@
-## Hi there 👋
+# Olá, eu sou a Gabriela! 👋
 
-<!--
-**GabrielaGaspari/GabrielaGaspari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas complexos através do código e por entender o que os dados têm a nos dizer.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Sobre Mim
+
+- 🎓 Graduanda em Ciência e Tecnologia (Foco em Data Science & CS).
+- 🐧 Entusiasta de **Linux** (Atualmente rodando Manjaro).
+- 🐍 Praticando Python para análise de dados e C para algoritmos de baixo nível.
+- 🎨 No tempo livre, me aventuro em DIY hair care e na cozinha.
+
+---
+
+### 🛠️ Tech Stack
+
+**Linguagens & Lógica:**
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+**Ciência de Dados:**
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+**Ferramentas & OS:**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🎮 Além do Código
+
+Quando não estou debugando ou analisando CSVs, você provavelmente vai me encontrar:
+- Caçando monstros em **The Witcher 3** ou montando decks de **Gwent**.
+- Ouvindo a minha playlist com muito **Rock e Metal**.
+- Customizando ambientes desktop em alguma distro Linux.
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=GabrielaGaspari&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielaGaspari&layout=compact&theme=tokyonight)
+
+---
+
+📫 **Como me encontrar:**
+(https://www.linkedin.com/in/gabrielagaspari/)
