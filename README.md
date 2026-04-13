@@ -42,7 +42,7 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 ### 💻 **Algoritmos e Linguagem C**
 * Desenvolvimento de lógica pura e sistemas **multiplataforma**.
 * **Destaque:** Calculadora híbrida adaptada para Windows e Linux.
-* 👉 [Acessar Pasta de C](./Linguagem-C)
+* 👉 [Acessar Pasta de C](https://github.com/GabrielaGaspari/Portfolio-C)
 
 ---
 
