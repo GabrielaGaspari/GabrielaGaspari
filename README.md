@@ -32,6 +32,20 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 
 ---
 
+## 📂 Trilhas de Estudo
+
+### 🐍 **Ciência de Dados com Python**
+* Projetos focados em **análise estatística**, **séries temporais** e **visualização de dados**.
+* **Destaque:** Estudo sobre o impacto da pandemia na expectativa de vida no Brasil.
+* 👉 [Acessar Pasta de Dados](./Data-Science-Projects)
+
+### 💻 **Algoritmos e Linguagem C**
+* Desenvolvimento de lógica pura e sistemas **multiplataforma**.
+* **Destaque:** Calculadora híbrida adaptada para Windows e Linux.
+* 👉 [Acessar Pasta de C](./Linguagem-C)
+
+---
+
 ### 🎮 Além do Código
 
 Quando não estou debugando ou analisando CSVs, você provavelmente vai me encontrar:
