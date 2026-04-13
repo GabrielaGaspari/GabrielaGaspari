@@ -6,7 +6,7 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 
 ### 🚀 Sobre Mim
 
-- 🎓 Graduanda em Ciência e Tecnologia (Foco em Data Science & CS).
+- 🎓 Graduanda em **Ciência e Tecnologia**.
 - 🐧 Entusiasta de **Linux** (Atualmente rodando Manjaro).
 - 🐍 Praticando Python para análise de dados e C para algoritmos de baixo nível.
 - 🎨 No tempo livre, me aventuro em DIY hair care e na cozinha.
