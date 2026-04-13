@@ -37,7 +37,7 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 ### 🐍 **Ciência de Dados com Python**
 * Projetos focados em **análise estatística**, **séries temporais** e **visualização de dados**.
 * **Destaque:** Estudo sobre o impacto da pandemia na expectativa de vida no Brasil.
-* 👉 [Acessar Pasta de Dados]([./Data-Science-Projects](https://github.com/GabrielaGaspari/Data-Science-Projects))
+* 👉 [Acessar Pasta de Dados](https://github.com/GabrielaGaspari/Data-Science-Projects)
 
 ### 💻 **Algoritmos e Linguagem C**
 * Desenvolvimento de lógica pura e sistemas **multiplataforma**.
