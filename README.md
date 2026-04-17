@@ -28,7 +28,7 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 **Ferramentas & OS:**
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+[![VSCodium](https://img.shields.io/badge/VSCodium-2F80ED?logo=vscodium&logoColor=fff)](#)
 
 ---
 
@@ -42,7 +42,12 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 ### 💻 **Algoritmos e Linguagem C**
 * Desenvolvimento de lógica pura e sistemas **multiplataforma**.
 * **Destaque:** Calculadora híbrida adaptada para Windows e Linux.
-* 👉 [Acessar Pasta de C](https://github.com/GabrielaGaspari/Portfolio-C)
+* 👉 [Acessar Pasta C](https://github.com/GabrielaGaspari/Portfolio-C)
+
+### 🌐 **Lógica de Programação com JavaScript**
+* Exercícios de algoritmos, manipulação de condicionais e laços de repetição.
+* **Destaque:** Implementação de cálculos de IMC e algoritmos de ordenação.
+* 👉 [Acessar Pasta JS](github.com/GabrielaGaspari/Portfolio-C)
 
 ---
 
