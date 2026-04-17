@@ -47,7 +47,7 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 ### 🌐 **Lógica de Programação com JavaScript**
 * Exercícios de algoritmos, manipulação de condicionais e laços de repetição.
 * **Destaque:** Implementação de cálculos de IMC e algoritmos de ordenação.
-* 👉 [Acessar Pasta JS](github.com/GabrielaGaspari/Portfolio-C)
+* 👉 [Acessar Pasta JS](https://github.com/GabrielaGaspari/Portfolio-JS)
 
 ---
 
