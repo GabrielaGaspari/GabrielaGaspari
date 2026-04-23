@@ -36,7 +36,7 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 
 ### 🕹️ Projeto em Destaque: ⚔️ Busca ao Tesouro
 
-Um jogo de exploração em terminal desenvolvido em **C**, focado em manipulação de matrizes e lógica de sistemas.
+ Um jogo de exploração em terminal desenvolvido em **C**, focado em manipulação de matrizes e lógica de sistemas.
 
 * **Lógica de Matrizes:** Gerenciamento de um grid 11x11 com estados dinâmicos.
 * **Engenharia de Software:** Criação de um **Makefile Universal** para portabilidade entre Linux e Windows.
