@@ -34,6 +34,15 @@ Estudante de **Ciência e Tecnologia**. Apaixonada por resolver problemas comple
 
 ## 📂 Trilhas de Estudo
 
+### 🕹️ Projeto em Destaque: ⚔️ Busca ao Tesouro
+
+Um jogo de exploração em terminal desenvolvido em **C**, focado em manipulação de matrizes e lógica de sistemas.
+
+* **Lógica de Matrizes:** Gerenciamento de um grid 11x11 com estados dinâmicos.
+* **Engenharia de Software:** Criação de um **Makefile Universal** para portabilidade entre Linux e Windows.
+* **Sistemas Operacionais:** Manipulação de buffers de entrada e automação de permissões no terminal Linux.
+* 👉[Acessar o Game](https://github.com/GabrielaGaspari/Busca_ao_Tesouro)
+
 ### 🐍 **Ciência de Dados com Python**
 * Projetos focados em **análise estatística**, **séries temporais** e **visualização de dados**.
 * **Destaque:** Estudo sobre o impacto da pandemia na expectativa de vida no Brasil.
